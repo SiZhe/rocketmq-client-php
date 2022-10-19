@@ -1,0 +1,13 @@
+{
+    "name": "huilin/rocketmq-client-php",
+    "description": "rocketmq-client-php",
+    "license": "MIT",
+    "type" : "library",
+    "minimum-stability" : "dev",
+    "autoload": {
+        "psr-4": {
+            "Huilin\\RocketmqClientPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
